@@ -1,0 +1,11 @@
+.stats, .all, .best, .graph {
+  font-family: "Courier";
+}
+
+.stats, .graph {
+  font-size: 24;
+}
+
+.best {
+  font-size: 48;
+}
